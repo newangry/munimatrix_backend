@@ -1,0 +1,86 @@
+[
+    {
+        "action_type": "Ordinance",
+        "primary_event_type": "Repair",
+        "primary_event_subtype": "-",
+        "r_type": "Sewer Pump",
+        "equipment_service_type": "-",
+        "security_type_notes_bonds_warrants": "Bonds",
+        "company_vendor_position": "-",
+        "model": "-",
+        "money_amount": "$16,500",
+        "related_text": "BOND ORDINANCE PROVIDING FOR REPAIRS TO THE SEWER PUMP, BY AND IN THE BOROUGH OF AVON -BY- THE -SEA, IN THE COUNTY OF MONMOUTH, STATE OF NEW JERSEY ; APPROPRIATING $17,500 THEREFOR AND AUTHORIZING THE ISSUANCE OF $16,500 BONDS OR NOTES OF THE BOROUGH TO FINANCE PART OF THE COST THEREOF."
+    },
+    {
+        "action_type": "Action",
+        "primary_event_type": "Capital Equipment",
+        "primary_event_subtype": "Purchase",
+        "r_type": "Lamppost",
+        "equipment_service_type": "-",
+        "security_type_notes_bonds_warrants": "-",
+        "company_vendor_position": "Monarch Electric Company",
+        "model": "-",
+        "money_amount": "$11,000.00",
+        "related_text": "Resolution No. 222-2023 - Authorizing the Purchase of Main Street Lamppost"
+    },
+    {
+        "action_type": "Resolution",
+        "primary_event_type": "Payment of Bills",
+        "primary_event_subtype": "Seventh\/Final Payment",
+        "r_type": "Barrier Free Access Project",
+        "equipment_service_type": "-",
+        "security_type_notes_bonds_warrants": "-",
+        "company_vendor_position": "Shorelands Construction Inc.",
+        "model": "-",
+        "money_amount": "$4,603.89",
+        "related_text": "Resolution No. 223-2023 \u2013 Authorizing Seventh\/Final  Payment to Shorelands Construction Inc. for Barrier Free Access Project for Avon Public Library"
+    },
+    {
+        "action_type": "Resolution",
+        "primary_event_type": "Capital Equipment",
+        "primary_event_subtype": "Purchase",
+        "r_type": "Air Compressor",
+        "equipment_service_type": "Air Compressor",
+        "security_type_notes_bonds_warrants": "-",
+        "company_vendor_position": "Van Wickle Auto Supply, Inc.",
+        "model": "-",
+        "money_amount": "$3,349.00",
+        "related_text": "Resolution 224-2023 - Authorizing the Purchase of Air Compressor"
+    },
+    {
+        "action_type": "Resolution",
+        "primary_event_type": "Capital Equipment",
+        "primary_event_subtype": "Purchase",
+        "r_type": "Holiday Lights",
+        "equipment_service_type": "-",
+        "security_type_notes_bonds_warrants": "-",
+        "company_vendor_position": "Christmas Designers.com",
+        "model": "-",
+        "money_amount": "$8,236.50",
+        "related_text": "Resolution No. 225-2023 \u2013 Authorizing the Purchase of Holiday Lights\n\nThe Board of Commissioners of the Borough of Avon -by-the-Sea hereby approves the purchase of holiday lights for Main Street from Christmas Designers.com in an amount not to exceed $8,236.50 from account C-01-041-203."
+    },
+    {
+        "action_type": "Resolution",
+        "primary_event_type": "Capital Equipment",
+        "primary_event_subtype": "Purchase",
+        "r_type": "Beach Playground Equipment",
+        "equipment_service_type": "-",
+        "security_type_notes_bonds_warrants": "-",
+        "company_vendor_position": "MRC, Inc.",
+        "model": "Custom PowerScape 5-12 Unit",
+        "money_amount": "$93,131.81",
+        "related_text": "Resolution No. 226-2023 \u2013 Authorizing the Purchase of Beach Playground Equipment with Grant Funding\n\nThe Board of Commissioners of the Borough of Avon -by-the-Sea hereby approves the purchase of Beach Playground Equipment (Custom PowerScape 5-12 Unit) and Installation (by a Certified GameTime Installer) from MRC, Inc. from accounts G-04-121-201 and C-02-047-201 in an amount not to exceed $93,131.81."
+    },
+    {
+        "action_type": "Resolution",
+        "primary_event_type": "Capital Equipment",
+        "primary_event_subtype": "Repair",
+        "r_type": "Sewer Pump",
+        "equipment_service_type": "-",
+        "security_type_notes_bonds_warrants": "-",
+        "company_vendor_position": "Pumping Services, Inc.",
+        "model": "-",
+        "money_amount": "$17,500.00",
+        "related_text": "Resolution No. 227-2023 \u2013 Authorizing the Mayor to Sign an Agreement with Pumping Services, Inc. for a Sewer Pump Repair at Ocean and Lincoln Avenues in an amount not to exceed $17,500.00 out of account 3-03- -101-201."
+    }
+]
